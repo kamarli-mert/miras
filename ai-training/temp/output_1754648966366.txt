@@ -1,0 +1,5 @@
+TRANSLATION: dftrdar hdrtlri hَzinَdn mُkَtَaَlَr aiçin hَrْcَmَh iَpَcَafِlَr
+LAYER_INFO: Basit karakter çevirisi (fallback)
+METHOD: simple_character_translation
+AI_MODEL: Basic Character Mapping
+PROCESSING_TIME: 0.001

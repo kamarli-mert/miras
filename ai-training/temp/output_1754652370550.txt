@@ -1,0 +1,5 @@
+TRANSLATION: gch ildzlr parlivr، kvk‌iُzi çvk kvzَl kvrvniv‌r
+LAYER_INFO: Basit karakter çevirisi (fallback)
+METHOD: simple_character_translation
+AI_MODEL: Basic Character Mapping
+PROCESSING_TIME: 0.001

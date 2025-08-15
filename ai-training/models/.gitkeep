@@ -1,0 +1,13 @@
+# This directory contains trained models for Ottoman character recognition
+# Each model subfolder contains:
+# - model.json (model architecture)
+# - weights.bin (model weights)
+# - metadata.json (model information)
+# 
+# Example structure:
+# ottoman_model_2024-01-15T14-30-45Z/
+# ├── model.json
+# ├── weights.bin
+# └── metadata.json
+# 
+# DO NOT DELETE THIS FILE - it serves as a directory marker

@@ -1,0 +1,6 @@
+TRANSLATION: dُn çuk iuruldum ama aşlrmi btrْdim
+LAYER_INFO: Gelişmiş fallback karakter çevirisi
+METHOD: advanced_fallback_translation
+AI_MODEL: Advanced Fallback System
+CONFIDENCE: 0.5
+PROCESSING_TIME: 1

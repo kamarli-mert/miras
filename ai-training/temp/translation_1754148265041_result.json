@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "ottoman_text": "السلام عليكم ورحمة الله وبركاته",
+  "turkish_text": "alslam likm vrhme allh vbrkath",
+  "confidence": 0.8,
+  "processing_time": 0.0,
+  "method_used": "character_mapping",
+  "ai_model": "Basic Character Mapping"
+}
